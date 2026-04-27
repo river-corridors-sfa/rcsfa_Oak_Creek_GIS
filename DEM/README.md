@@ -1,12 +1,13 @@
-\# DEM
+# DEM
 
-File were downloaded by Sundar Niroula on 2026-03-02 from USGS using Watershed Workflow (https://github.com/environmental-modeling-workflows/watershed-workflow).
+File were downloaded by Sundar Niroula on 2026-03-02 from USGS using [Watershed Workflow](https://github.com/environmental-modeling-workflows/watershed-workflow).
 
 
 
-\## Citation
+## Citation
 
-\### Watershed workflow
+### Watershed Workflow 
+The following information was pulled from https://github.com/environmental-modeling-workflows/watershed-workflow
 
 This work was supported by multiple US Department of Energy projects, and was mostly developed at the Oak Ridge National Laboratory. Use of this codebase in the academic literature should cite:
 
@@ -24,7 +25,7 @@ The use of stream-aligned mixed-polyhedral mesh should cite:
 
 
 
-\### USGS
+### USGS
 
 Refer to https://www.usgs.gov/faqs/how-should-i-cite-datasets-and-services-national-map
 
