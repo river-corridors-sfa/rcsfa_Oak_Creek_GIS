@@ -1,10 +1,10 @@
-\# rcsfa\_Oak\_Creek\_GIS
+# rcsfa\_Oak\_Creek\_GIS
 
 This repository contains GIS files for the Oak Creek Watershed to ensure people across the RC-SFA team are using the same data products.
 
 
 
-This repository is managed by Brieanne Forbes (brieanne.forbes@pnnl.gov). If you would like to add any files, please reach out to her.
+**This repository is managed by Brieanne Forbes (brieanne.forbes@pnnl.gov). If you would like to add any files, please reach out to her.**
 
 
 
