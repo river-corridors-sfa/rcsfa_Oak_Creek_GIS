@@ -1,0 +1,13 @@
+<Projected CRS: EPSG:5070>
+Name: NAD83 / Conus Albers
+Axis Info [cartesian]:
+- [east]: Easting (metre)
+- [north]: Northing (metre)
+Area of Use:
+- undefined
+Coordinate Operation:
+- name: unnamed
+- method: Albers Equal Area
+Datum: North American Datum 1983
+- Ellipsoid: GRS 1980
+- Prime Meridian: Greenwich
