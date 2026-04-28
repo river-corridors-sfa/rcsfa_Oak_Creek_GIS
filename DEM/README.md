@@ -1,6 +1,6 @@
 # DEM
 
-File were downloaded by Sundar Niroula on 2026-03-02 from USGS using [Watershed Workflow](https://github.com/environmental-modeling-workflows/watershed-workflow).
+File were downloaded by Sundar Niroula on 2026-03-02 from USGS using [Watershed Workflow](https://github.com/environmental-modeling-workflows/watershed-workflow). [Link to exact python script here](https://github.com/environmental-modeling-workflows/watershed-workflow/blob/master/watershed_workflow/sources/manager_3dep.py).
 
 
 
